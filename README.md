@@ -1,11 +1,6 @@
-# git action traction
-
 ![carl weathers](https://user-images.githubusercontent.com/5713670/82574380-db217480-9b3b-11ea-9217-acc51b6584a8.png)
 
 This will be the future home for some GitHub Action video content. 
-
-Hi, I am [bdougie](https://github.com/bdougie) and I like Actions.
-
 
 ## How do I watch?
 
