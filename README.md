@@ -4,7 +4,7 @@ This will be the future home for some GitHub Action video content.
 
 ## How do I watch?
 
-There will be a link to Youtube soon, for now please follow me on Twitter to get notified when the first video is released. 
+There will be a link to Youtube soon, for now please [follow me on Twitter](https://twitter.com/bdougieYO) or the this repository to get notified when the first video is released. 
 
 ## Where can I learn more about Actions?
 
