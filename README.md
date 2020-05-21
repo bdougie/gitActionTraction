@@ -1,2 +1,5 @@
 # gitActionTraction
-Home GitHub Action video content and planning. 
+The future home for some GitHub Action video content. 
+
+
+WIP
