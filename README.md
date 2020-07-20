@@ -8,4 +8,4 @@ All the "gitActionTraction" videos will be uploaded to my [YouTube](https://www.
 
 ## Where can I learn more about Actions?
 
-The [github.community](https://github.community/t5/GitHub-Actions/bd-p/actions) forum is the place to ask questions and find answers. 
+The [github.community](https://github.community/c/github-actions/41) forum is the place to ask questions and find answers. 
