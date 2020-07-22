@@ -1,4 +1,4 @@
-![carl weathers](https://user-images.githubusercontent.com/5713670/82574380-db217480-9b3b-11ea-9217-acc51b6584a8.png)
+![git action traction logo](https://user-images.githubusercontent.com/20134767/88198187-4e0ca180-cbf8-11ea-8996-c444f0ddc371.png)
 
 This will be the future home for some GitHub Action video content. 
 
