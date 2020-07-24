@@ -1,4 +1,4 @@
-![git action traction logo](https://user-images.githubusercontent.com/20134767/88198187-4e0ca180-cbf8-11ea-8996-c444f0ddc371.png)
+![git action traction logo](https://user-images.githubusercontent.com/20134767/88407362-dde05600-cd86-11ea-8ed6-880c2e5e1f3d.gif)
 
 This will be the future home for some GitHub Action video content. 
 
