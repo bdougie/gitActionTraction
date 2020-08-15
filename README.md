@@ -4,7 +4,7 @@ This will be the future home for some GitHub Action video content.
 
 ## How do I watch?
 
-All the "gitActionTraction" videos will be uploaded to my [YouTube](https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?view_as=subscriber) account soon. I will also share clips from my [Twitter](https://twitter.com/bdougieYO). This repository will serve as a place for planning future content. 
+All the "gitActionTraction" videos will be uploaded to my [YouTube](https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?view_as=subscriber) account. I will also share clips from my [Twitter](https://twitter.com/bdougieYO). This repository will serve as a place for planning future content. 
 
 ## Where can I learn more about Actions?
 
